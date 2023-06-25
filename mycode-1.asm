@@ -1,5 +1,5 @@
   ;2020556033
-  ;Seray Ýlhan
+  ;Seray Ä°lhan
   ;sryilhn
 
 .model small
